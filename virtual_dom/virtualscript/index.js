@@ -1,3 +1,3 @@
 'use strict'
 
-var isArray = require();
+var isArray = require('x-is-array');
