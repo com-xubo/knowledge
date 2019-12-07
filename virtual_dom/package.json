@@ -11,5 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "xiaoxiaojiang",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "x-is-array": "^0.1.0"
+  }
 }
