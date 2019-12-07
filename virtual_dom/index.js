@@ -1,0 +1,1 @@
+console.log('/virtual_dom/index.js');
