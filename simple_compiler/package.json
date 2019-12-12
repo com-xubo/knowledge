@@ -1,15 +1,19 @@
 {
   "name": "simple_compiler",
   "version": "0.0.1",
-  "description": "",
+  "description": "compiler test;",
   "main": "index.js",
-  "repository" :{ 
-    "type" : "git", 
-    "url" : "https://github.com/com-xubo/knowledge.git"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/com-xubo/knowledge.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "xiaoxiaojiang",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/com-xubo/knowledge/issues"
+  },
+  "homepage": "https://github.com/com-xubo/knowledge#readme"
 }
