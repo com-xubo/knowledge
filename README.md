@@ -1,8 +1,6 @@
 # knowledge
 学习整理笔记
-llllllaciiiii
-
-kjkljlkjlksjdlfjsdjfdslkjl
+test merget mul command
 
 
 
